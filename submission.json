@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal magazine cover: giant translucent child's lung floating above Delhi skyline at dusk. Left half pure white with green rural fields visible through it (clean breathing). Right half filling with thick black toxic smog from city factories below (choking death). No text, no charts, no numbers, dramatic cinematic lighting, raw emotional impact, single powerful frame --ar 16:9",
+  "model": "Nano Banana 2",
+  "dataset_name": "Air Quality Data in India",
+  "dataset_url": "https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india",
+  "insight": "Delhi's air became 14x deadlier than WHO safe levels in peak winter months."
+}
